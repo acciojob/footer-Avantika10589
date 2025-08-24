@@ -127,3 +127,10 @@ footer .bottom-details .bottom_text a:hover {
     align-items: flex-start;
   }
 }
+
+footer .media-icons {
+  display: flex;         
+  align-items: center;
+  justify-content: center;
+  gap: 10px;             
+}
